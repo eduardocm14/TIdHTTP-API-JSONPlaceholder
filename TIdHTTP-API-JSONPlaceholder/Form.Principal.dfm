@@ -58,7 +58,7 @@ object frmPrincipal: TfrmPrincipal
     Height = 66
     Align = alBottom
     TabOrder = 1
-    object Button1: TButton
+    object btnConectar: TButton
       Left = 556
       Top = 1
       Width = 369
@@ -66,7 +66,7 @@ object frmPrincipal: TfrmPrincipal
       Align = alRight
       Caption = 'Conectar'
       TabOrder = 0
-      OnClick = Button1Click
+      OnClick = btnConectarClick
     end
     object RadioGroup1: TRadioGroup
       Left = 1

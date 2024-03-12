@@ -21,7 +21,7 @@ type
     RESTResponse1: TRESTResponse;
     DBGrid1: TDBGrid;
     Panel1: TPanel;
-    Button1: TButton;
+    btnConectar: TButton;
     RadioGroup1: TRadioGroup;
     FDMemTable1: TFDMemTable;
     DataSource1: TDataSource;
@@ -30,7 +30,7 @@ type
     FDMemTable1body: TStringField;
     PopupMenu1: TPopupMenu;
     LimparGrid1: TMenuItem;
-    procedure Button1Click(Sender: TObject);
+    procedure btnConectarClick(Sender: TObject);
     procedure JsonToDataSet(aDataset: TDataSet; aJSON: string);
     procedure LimparGrid1Click(Sender: TObject);
   private
@@ -49,7 +49,7 @@ implementation
 
 {$R *.dfm}
 
-procedure TfrmPrincipal.Button1Click(Sender: TObject);
+procedure TfrmPrincipal.btnConectarClick(Sender: TObject);
 begin
   FDMemTable1.Close;
   FDMemTable1.Open;
