@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/03/11 15:13:18.237,=C:\Users\AQUASOFT\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/11 15:16:38.483,C:\Eduardo\Delphi\Exemplos\TIdHTTP-API-JSONPlaceholder\Form.Principal.dfm=C:\Users\AQUASOFT\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/03/11 15:16:38.483,C:\Eduardo\Delphi\Exemplos\TIdHTTP-API-JSONPlaceholder\Form.Principal.pas=C:\Users\AQUASOFT\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/11 15:18:16.851,C:\Eduardo\Delphi\Exemplos\TIdHTTP-API-JSONPlaceholder\TIdHTTP.APIJSONPlaceholder.dproj=C:\Users\AQUASOFT\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
